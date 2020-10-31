@@ -53,6 +53,6 @@ The main objectives of the proposed application include a reduction in wastage o
   | Net beans IDE | Enables accelerated HTML 5 Web application development |
   
 
-### 10. Link for Video / ppt showing how the prototype works ( be as creative and innovative as possible ).  
+### 10. Link for Video / ppt showing how the prototype works.  
 
 [Click here ---> Link to Prototype](https://drive.google.com/drive/folders/16jEGES1HQ_davW9gM1JzvR3zj3rcMF1q?usp=sharing)
