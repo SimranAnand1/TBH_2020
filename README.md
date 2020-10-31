@@ -1,18 +1,16 @@
 # TBH_2020
-<hr>
 
 ## HungerHackers prototype submission
 <br>
-
 ### 1. Team name 
 HungerHackers
 
 ### 2. Team members name 
 
-   i. Harshith Kanigalpula
-   ii. Yamini Haripriya K
-   iii. Simran Anand
-   iv. Gudi Varaprasad
+   1. Harshith Kanigalpula
+   2. Yamini Haripriya K
+   3. Simran Anand
+   4. Gudi Varaprasad
 
 ### 3. Name of project
 
@@ -57,4 +55,4 @@ The main objectives of the proposed application include a reduction in wastage o
 
 ### 10. Link for Video / ppt showing how the prototype works ( be as creative and innovative as possible ).  
 
-[Click here --- Link to Prototype](https://drive.google.com/drive/folders/16jEGES1HQ_davW9gM1JzvR3zj3rcMF1q?usp=sharing)
+[Click here ---> Link to Prototype](https://drive.google.com/drive/folders/16jEGES1HQ_davW9gM1JzvR3zj3rcMF1q?usp=sharing)
