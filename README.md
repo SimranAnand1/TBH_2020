@@ -1,6 +1,6 @@
 ![](./logo.jpg)
 
-## HungerHackers prototype submission
+# HungerHackers prototype submission
 
 ### 1. Team name 
 HungerHackers
