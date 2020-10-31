@@ -34,7 +34,7 @@ The main objectives of the proposed application include a reduction in wastage o
 
 ### 8. Challenges you ran into during the hackathon.  
 
-   1. Very limited time to plan, develop and test your product.
+   1. Very limited time to plan, develop and test our product.
    2. A lot of research about the theme/topic.
    3. Unclear Problem Statements initially.
 
