@@ -1,7 +1,7 @@
 # TBH_2020
 
 ## HungerHackers prototype submission
-<br>
+
 ### 1. Team name 
 HungerHackers
 
